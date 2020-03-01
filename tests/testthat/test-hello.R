@@ -15,11 +15,3 @@ test_that("function works", {
   expect_equal(mult_two(9), 18)
 })
 
-test_that("function works", {
-  expect_equal(plus_two(4), 4)
-})
-
-test_that("function works", {
-  expect_equal(plus_two(6), 80)
-})
-
