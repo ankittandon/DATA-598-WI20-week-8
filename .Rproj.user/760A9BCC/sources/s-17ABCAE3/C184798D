@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1583046845649.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "C184798D",
+    "lastKnownWriteTime" : 1583046849,
+    "last_content_update" : 1583046849935,
+    "path" : "C:/Users/ankit/OneDrive/Desktop/mysimplecompendium/.github/workflows/R-CMD-check.yaml",
+    "project_path" : ".github/workflows/R-CMD-check.yaml",
+    "properties" : {
+        "cursorPosition" : "18,0",
+        "scrollLine" : "0"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 7,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "yaml"
+}
