@@ -2,7 +2,7 @@
 # mysimplecompendium
 
 <!-- badges: start -->
-[![R build status](https://github.com/ankitapal189/DATA-598-WI20-week-7/tests/workflows/R-CMD-check/badge.svg)]
+[![R build status](https://github.com/ankitapal189/DATA-598-WI20-week-7/tests/.github/workflows/R-CMD-check/badge.svg)]
 <!-- badges: end -->
 
 The goal of mysimplecompendium is to ...
