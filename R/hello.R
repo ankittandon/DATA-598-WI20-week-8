@@ -19,8 +19,8 @@
 #' @export
 #'
 #' @examples
-hello <- function() {
-  print("Hello, world!")
+mult_two <- function(x) {
+  return (x*2)
 }
 
 
@@ -34,5 +34,5 @@ hello <- function() {
 #' @examples
 plus_two <- function(x)
 {
-  x+2
+  return (x+2)
 }
